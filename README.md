@@ -31,9 +31,9 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Name: Roshini S
+### Name: SANJAY V
 
-### Register Number:212223230174
+### Register Number:212223230188
 
 ```python
 # Autoencoder for Image Denoising using PyTorch
@@ -104,8 +104,8 @@ summary(model, input_size=(1, 28, 28))
 # Train the autoencoder
 def train(model, loader, criterion, optimizer, epochs=5):
     model.train()
-    print("Name:Roshini S")
-    print("Register Number:212223230174")
+    print("Name: SANJAY V")
+    print("Register Number: 212223230188")
 
     for epoch in range(epochs):
         running_loss = 0.0
